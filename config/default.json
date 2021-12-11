@@ -1,0 +1,18 @@
+{
+  "mongoURI": "mongodb://localhost/devconnector?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
+
+/*
+mongodb://dave:password@localhost:27017/myproject
+mongodb://dave:password@localhost:27017/myproject?authSource=admin
+
+
+mongodb+srv://mongo_user:abcd1234@devconnector-pwdvr.mongodb.net/admin?retryWrites=true&w=majority",
+
+mongodb://localhost/devconnector?retryWrites=true&w=majority",
+
+
+ */
